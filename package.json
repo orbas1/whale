@@ -6,10 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "echo \"No tests\""
+    "test": "echo \"No tests\"",
+    "setup": "node scripts/setup.js"
   },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "next": "14.2.3",
+    "pg": "^8.11.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
