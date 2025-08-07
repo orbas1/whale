@@ -1,4 +1,6 @@
 import Head from 'next/head';
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
 import { Pool } from 'pg';
 
 export async function getServerSideProps() {
@@ -19,11 +21,22 @@ export async function getServerSideProps() {
 }
 
 export default function Home({ now }) {
+  const router = useRouter();
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && !localStorage.getItem('setupComplete')) {
+      router.replace('/setup');
+    }
+  }, [router]);
+
   return (
     <>
       <Head>
         <title>Whale</title>
-        <meta name="description" content="A simple one-page Next.js site for Vercel deployment." />
+        <meta
+          name="description"
+          content="A simple one-page Next.js site for Vercel deployment."
+        />
       </Head>
       <main>
         <h1>Welcome to Whale</h1>
