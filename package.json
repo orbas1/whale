@@ -9,9 +9,17 @@
     "test": "echo \"No tests\""
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^2.10.9",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@prisma/client": "^6.13.0",
+    "framer-motion": "^12.23.12",
     "next": "14.2.3",
+    "prisma": "^6.13.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "swr": "^2.3.4"
   },
   "engines": {
     "node": ">=18.17.0"
