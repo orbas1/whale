@@ -1,5 +1,50 @@
 # Browser Monster Game Design Guide
 
+## Production Sprint Tasks
+1. **Codebase Review & Environment Setup**
+   - Confirm Node 18 environment and run `npm install`.
+   - Audit repository structure and clean unused assets.
+   - Document local development prerequisites.
+2. **Core Engine Stabilization**
+   - Build game loop with update and render phases.
+   - Implement HTML5 Canvas rendering utilities.
+   - Add keyboard and mouse input handlers.
+3. **Data Model Finalization**
+   - Normalize monster, move, and item data into modules.
+   - Validate data integrity with sample scenarios.
+   - Provide type definitions or interfaces.
+4. **Procedural Sprite Generator**
+   - Implement generator library for monsters, items, and attacks.
+   - Integrate sprites with canvas rendering pipeline.
+   - Document extension points for new assets.
+5. **Gameplay Features**
+   - Turn-based battle system with HP and status tracking.
+   - Monster capture mechanics and probability balancing.
+   - Inventory management and item usage flows.
+   - Save/load using `localStorage`.
+6. **UI/UX Implementation**
+   - Build responsive layout using Chakra UI components.
+   - Implement navigation for map, inventory, battle, and settings views.
+   - Add accessibility options (contrast mode, text scaling).
+7. **Content Integration**
+   - Import map data and location transitions.
+   - Populate world with sample monsters, items, and NPCs.
+   - Hook up gyms and route encounters per design guide.
+8. **Testing & Quality Assurance**
+   - Run `npm test` and add additional unit tests for critical modules.
+   - Configure linting and formatting (ESLint/Prettier) and run on commit.
+   - Conduct manual cross-browser smoke testing.
+9. **Optimization & Performance**
+   - Profile render loop and address memory leaks.
+   - Lazy-load assets and minimize bundle size with Next.js features.
+   - Optimize localStorage read/write operations.
+10. **Deployment & Documentation**
+    - Prepare production build with `npm run build` and `npm start`.
+    - Write README with setup, build, and contribution guidelines.
+    - Tag release `v1.0.0` and generate release notes.
+    - Set up CI workflow for future merges.
+
+
 ## Overview
 - Client-only RPG rendered with HTML5 Canvas; all sprites procedurally generated.
 - Game data stored in JavaScript objects; persistence via localStorage.
