@@ -837,3 +837,427 @@
 - Separate modules for map, battle, data definitions.
 - Use localStorage for saves.
 - Provide keyboard navigation and color-contrast options.
+
+## Expanded Lore
+
+### Land and Region Background
+Millennia ago the realm was a scattered chain of storm-lashed islands. The four elemental titans—Ignis of fire, Tidera of water, Aerion of wind, and Terragaia of earth—rose from the depths to still the maelstrom. Their combined power fused the islands into a single continent and left behind ley lines that still pulse beneath the soil.  
+Ancient civilizations flourished along these lines, carving crystalline obelisks that channeled titan energy. When the elders vanished, their monuments shattered and the land slowly forgot its origin. In recent centuries, settlers rediscovered the ruins and built towns atop the most stable ley foci. Every region guards a relic fragment believed to contain the memory of a titan, and rumors claim uniting the pieces will awaken their slumbering spirits.  
+Modern life balances rustic tradition with salvaged tech from the ruins. Steam trains weave between towns, solar towers rise beside carved stone, and wild monsters migrate along the same paths the titans once tread. The land itself seems alive—mountain ranges shift after quakes, forests regrow overnight, and the sky sometimes glows with residual aurora from the titans' slumbering hearts.
+
+### Character Roster
+Below is a comprehensive list of 250 interactable characters. Each entry notes their role, history, and monster team. Levels indicate strength at first encounter.
+1. **Aiden Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv6, Tidelit Lv8.
+2. **Aiden Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv7, Emberimp Lv9.
+3. **Aiden Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv8, Gustling Lv10.
+4. **Aiden Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv9, Sprigling Lv11.
+5. **Aiden Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv10, Pebblit Lv12.
+6. **Aiden Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv11, Sparksprout Lv13.
+7. **Aiden Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv12, Chillcub Lv14.
+8. **Aiden Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv13, Mindlet Lv15.
+9. **Aiden Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv14, Shadepup Lv16.
+10. **Aiden Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv15, Aquaphin Lv17.
+11. **Bianca Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv16, Pyrodon Lv18.
+12. **Bianca Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv17, Lithor Lv19.
+13. **Bianca Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv18, Zephyrkit Lv20.
+14. **Bianca Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv19, Thornstag Lv21.
+15. **Bianca Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv20, Voltail Lv22.
+16. **Bianca Frost** – Quarry City climber charting hidden caves; team: Voltail Lv21, Glacielle Lv23.
+17. **Bianca Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv22, Miragecat Lv24.
+18. **Bianca Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv23, Bramblehog Lv25.
+19. **Bianca Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv24, Quakelet Lv26.
+20. **Bianca Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv25, Stormjay Lv27.
+21. **Cedric Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv26, Lumiviper Lv28.
+22. **Cedric Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv27, Frostmaw Lv29.
+23. **Cedric Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv28, Mysticore Lv30.
+24. **Cedric Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv29, Shadowmunk Lv31.
+25. **Cedric Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv30, Solarion Lv32.
+26. **Cedric Frost** – Quarry City climber charting hidden caves; team: Solarion Lv31, Rockram Lv33.
+27. **Cedric Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv32, Sandwyrm Lv34.
+28. **Cedric Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv33, Ironclaw Lv35.
+29. **Cedric Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv34, Skylume Lv36.
+30. **Cedric Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv35, Leafling Lv37.
+31. **Daria Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv36, Tidelit Lv38.
+32. **Daria Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv37, Emberimp Lv39.
+33. **Daria Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv38, Gustling Lv40.
+34. **Daria Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv39, Sprigling Lv41.
+35. **Daria Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv40, Pebblit Lv42.
+36. **Daria Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv41, Sparksprout Lv43.
+37. **Daria Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv42, Chillcub Lv44.
+38. **Daria Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv43, Mindlet Lv45.
+39. **Daria Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv44, Shadepup Lv46.
+40. **Daria Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv5, Aquaphin Lv7.
+41. **Elias Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv6, Pyrodon Lv8.
+42. **Elias Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv7, Lithor Lv9.
+43. **Elias Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv8, Zephyrkit Lv10.
+44. **Elias Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv9, Thornstag Lv11.
+45. **Elias Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv10, Voltail Lv12.
+46. **Elias Frost** – Quarry City climber charting hidden caves; team: Voltail Lv11, Glacielle Lv13.
+47. **Elias Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv12, Miragecat Lv14.
+48. **Elias Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv13, Bramblehog Lv15.
+49. **Elias Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv14, Quakelet Lv16.
+50. **Elias Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv15, Stormjay Lv17.
+51. **Farah Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv16, Lumiviper Lv18.
+52. **Farah Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv17, Frostmaw Lv19.
+53. **Farah Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv18, Mysticore Lv20.
+54. **Farah Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv19, Shadowmunk Lv21.
+55. **Farah Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv20, Solarion Lv22.
+56. **Farah Frost** – Quarry City climber charting hidden caves; team: Solarion Lv21, Rockram Lv23.
+57. **Farah Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv22, Sandwyrm Lv24.
+58. **Farah Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv23, Ironclaw Lv25.
+59. **Farah Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv24, Skylume Lv26.
+60. **Farah Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv25, Leafling Lv27.
+61. **Griffin Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv26, Tidelit Lv28.
+62. **Griffin Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv27, Emberimp Lv29.
+63. **Griffin Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv28, Gustling Lv30.
+64. **Griffin Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv29, Sprigling Lv31.
+65. **Griffin Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv30, Pebblit Lv32.
+66. **Griffin Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv31, Sparksprout Lv33.
+67. **Griffin Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv32, Chillcub Lv34.
+68. **Griffin Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv33, Mindlet Lv35.
+69. **Griffin Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv34, Shadepup Lv36.
+70. **Griffin Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv35, Aquaphin Lv37.
+71. **Hana Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv36, Pyrodon Lv38.
+72. **Hana Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv37, Lithor Lv39.
+73. **Hana Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv38, Zephyrkit Lv40.
+74. **Hana Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv39, Thornstag Lv41.
+75. **Hana Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv40, Voltail Lv42.
+76. **Hana Frost** – Quarry City climber charting hidden caves; team: Voltail Lv41, Glacielle Lv43.
+77. **Hana Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv42, Miragecat Lv44.
+78. **Hana Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv43, Bramblehog Lv45.
+79. **Hana Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv44, Quakelet Lv46.
+80. **Hana Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv5, Stormjay Lv7.
+81. **Idris Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv6, Lumiviper Lv8.
+82. **Idris Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv7, Frostmaw Lv9.
+83. **Idris Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv8, Mysticore Lv10.
+84. **Idris Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv9, Shadowmunk Lv11.
+85. **Idris Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv10, Solarion Lv12.
+86. **Idris Frost** – Quarry City climber charting hidden caves; team: Solarion Lv11, Rockram Lv13.
+87. **Idris Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv12, Sandwyrm Lv14.
+88. **Idris Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv13, Ironclaw Lv15.
+89. **Idris Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv14, Skylume Lv16.
+90. **Idris Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv15, Leafling Lv17.
+91. **Jun Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv16, Tidelit Lv18.
+92. **Jun Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv17, Emberimp Lv19.
+93. **Jun Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv18, Gustling Lv20.
+94. **Jun Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv19, Sprigling Lv21.
+95. **Jun Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv20, Pebblit Lv22.
+96. **Jun Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv21, Sparksprout Lv23.
+97. **Jun Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv22, Chillcub Lv24.
+98. **Jun Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv23, Mindlet Lv25.
+99. **Jun Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv24, Shadepup Lv26.
+100. **Jun Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv25, Aquaphin Lv27.
+101. **Kara Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv26, Pyrodon Lv28.
+102. **Kara Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv27, Lithor Lv29.
+103. **Kara Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv28, Zephyrkit Lv30.
+104. **Kara Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv29, Thornstag Lv31.
+105. **Kara Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv30, Voltail Lv32.
+106. **Kara Frost** – Quarry City climber charting hidden caves; team: Voltail Lv31, Glacielle Lv33.
+107. **Kara Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv32, Miragecat Lv34.
+108. **Kara Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv33, Bramblehog Lv35.
+109. **Kara Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv34, Quakelet Lv36.
+110. **Kara Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv35, Stormjay Lv37.
+111. **Lars Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv36, Lumiviper Lv38.
+112. **Lars Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv37, Frostmaw Lv39.
+113. **Lars Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv38, Mysticore Lv40.
+114. **Lars Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv39, Shadowmunk Lv41.
+115. **Lars Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv40, Solarion Lv42.
+116. **Lars Frost** – Quarry City climber charting hidden caves; team: Solarion Lv41, Rockram Lv43.
+117. **Lars Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv42, Sandwyrm Lv44.
+118. **Lars Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv43, Ironclaw Lv45.
+119. **Lars Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv44, Skylume Lv46.
+120. **Lars Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv5, Leafling Lv7.
+121. **Mina Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv6, Tidelit Lv8.
+122. **Mina Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv7, Emberimp Lv9.
+123. **Mina Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv8, Gustling Lv10.
+124. **Mina Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv9, Sprigling Lv11.
+125. **Mina Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv10, Pebblit Lv12.
+126. **Mina Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv11, Sparksprout Lv13.
+127. **Mina Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv12, Chillcub Lv14.
+128. **Mina Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv13, Mindlet Lv15.
+129. **Mina Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv14, Shadepup Lv16.
+130. **Mina Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv15, Aquaphin Lv17.
+131. **Nolan Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv16, Pyrodon Lv18.
+132. **Nolan Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv17, Lithor Lv19.
+133. **Nolan Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv18, Zephyrkit Lv20.
+134. **Nolan Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv19, Thornstag Lv21.
+135. **Nolan Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv20, Voltail Lv22.
+136. **Nolan Frost** – Quarry City climber charting hidden caves; team: Voltail Lv21, Glacielle Lv23.
+137. **Nolan Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv22, Miragecat Lv24.
+138. **Nolan Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv23, Bramblehog Lv25.
+139. **Nolan Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv24, Quakelet Lv26.
+140. **Nolan Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv25, Stormjay Lv27.
+141. **Orla Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv26, Lumiviper Lv28.
+142. **Orla Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv27, Frostmaw Lv29.
+143. **Orla Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv28, Mysticore Lv30.
+144. **Orla Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv29, Shadowmunk Lv31.
+145. **Orla Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv30, Solarion Lv32.
+146. **Orla Frost** – Quarry City climber charting hidden caves; team: Solarion Lv31, Rockram Lv33.
+147. **Orla Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv32, Sandwyrm Lv34.
+148. **Orla Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv33, Ironclaw Lv35.
+149. **Orla Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv34, Skylume Lv36.
+150. **Orla Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv35, Leafling Lv37.
+151. **Pavel Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv36, Tidelit Lv38.
+152. **Pavel Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv37, Emberimp Lv39.
+153. **Pavel Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv38, Gustling Lv40.
+154. **Pavel Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv39, Sprigling Lv41.
+155. **Pavel Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv40, Pebblit Lv42.
+156. **Pavel Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv41, Sparksprout Lv43.
+157. **Pavel Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv42, Chillcub Lv44.
+158. **Pavel Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv43, Mindlet Lv45.
+159. **Pavel Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv44, Shadepup Lv46.
+160. **Pavel Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv5, Aquaphin Lv7.
+161. **Quinn Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv6, Pyrodon Lv8.
+162. **Quinn Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv7, Lithor Lv9.
+163. **Quinn Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv8, Zephyrkit Lv10.
+164. **Quinn Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv9, Thornstag Lv11.
+165. **Quinn Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv10, Voltail Lv12.
+166. **Quinn Frost** – Quarry City climber charting hidden caves; team: Voltail Lv11, Glacielle Lv13.
+167. **Quinn Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv12, Miragecat Lv14.
+168. **Quinn Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv13, Bramblehog Lv15.
+169. **Quinn Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv14, Quakelet Lv16.
+170. **Quinn Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv15, Stormjay Lv17.
+171. **Rhea Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv16, Lumiviper Lv18.
+172. **Rhea Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv17, Frostmaw Lv19.
+173. **Rhea Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv18, Mysticore Lv20.
+174. **Rhea Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv19, Shadowmunk Lv21.
+175. **Rhea Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv20, Solarion Lv22.
+176. **Rhea Frost** – Quarry City climber charting hidden caves; team: Solarion Lv21, Rockram Lv23.
+177. **Rhea Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv22, Sandwyrm Lv24.
+178. **Rhea Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv23, Ironclaw Lv25.
+179. **Rhea Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv24, Skylume Lv26.
+180. **Rhea Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv25, Leafling Lv27.
+181. **Silas Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv26, Tidelit Lv28.
+182. **Silas Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv27, Emberimp Lv29.
+183. **Silas Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv28, Gustling Lv30.
+184. **Silas Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv29, Sprigling Lv31.
+185. **Silas Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv30, Pebblit Lv32.
+186. **Silas Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv31, Sparksprout Lv33.
+187. **Silas Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv32, Chillcub Lv34.
+188. **Silas Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv33, Mindlet Lv35.
+189. **Silas Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv34, Shadepup Lv36.
+190. **Silas Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv35, Aquaphin Lv37.
+191. **Tara Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv36, Pyrodon Lv38.
+192. **Tara Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv37, Lithor Lv39.
+193. **Tara Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv38, Zephyrkit Lv40.
+194. **Tara Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv39, Thornstag Lv41.
+195. **Tara Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv40, Voltail Lv42.
+196. **Tara Frost** – Quarry City climber charting hidden caves; team: Voltail Lv41, Glacielle Lv43.
+197. **Tara Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv42, Miragecat Lv44.
+198. **Tara Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv43, Bramblehog Lv45.
+199. **Tara Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv44, Quakelet Lv46.
+200. **Tara Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv5, Stormjay Lv7.
+201. **Uma Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv6, Lumiviper Lv8.
+202. **Uma Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv7, Frostmaw Lv9.
+203. **Uma Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv8, Mysticore Lv10.
+204. **Uma Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv9, Shadowmunk Lv11.
+205. **Uma Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv10, Solarion Lv12.
+206. **Uma Frost** – Quarry City climber charting hidden caves; team: Solarion Lv11, Rockram Lv13.
+207. **Uma Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv12, Sandwyrm Lv14.
+208. **Uma Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv13, Ironclaw Lv15.
+209. **Uma Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv14, Skylume Lv16.
+210. **Uma Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv15, Leafling Lv17.
+211. **Viktor Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv16, Tidelit Lv18.
+212. **Viktor Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv17, Emberimp Lv19.
+213. **Viktor Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv18, Gustling Lv20.
+214. **Viktor Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv19, Sprigling Lv21.
+215. **Viktor Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv20, Pebblit Lv22.
+216. **Viktor Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv21, Sparksprout Lv23.
+217. **Viktor Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv22, Chillcub Lv24.
+218. **Viktor Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv23, Mindlet Lv25.
+219. **Viktor Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv24, Shadepup Lv26.
+220. **Viktor Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv25, Aquaphin Lv27.
+221. **Wren Aster** – Sprout Town botanist apprenticed to the professor; team: Aquaphin Lv26, Pyrodon Lv28.
+222. **Wren Bram** – Harbor City fisher funding a ferry for her family; team: Pyrodon Lv27, Lithor Lv29.
+223. **Wren Cyra** – Forge Town miner obsessed with volcanic gems; team: Lithor Lv28, Zephyrkit Lv30.
+224. **Wren Dusk** – Gale Village archaeologist cataloging wind totems; team: Zephyrkit Lv29, Thornstag Lv31.
+225. **Wren Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Thornstag Lv30, Voltail Lv32.
+226. **Wren Frost** – Quarry City climber charting hidden caves; team: Voltail Lv31, Glacielle Lv33.
+227. **Wren Gale** – Lumen Town engineer maintaining solar arrays; team: Glacielle Lv32, Miragecat Lv34.
+228. **Wren Holt** – Frostburg sculptor carving living ice; team: Miragecat Lv33, Bramblehog Lv35.
+229. **Wren Ivory** – Mystic City linguist translating psychic glyphs; team: Bramblehog Lv34, Quakelet Lv36.
+230. **Wren Jett** – Obsidian Cove dockworker guarding night shipments; team: Quakelet Lv35, Stormjay Lv37.
+231. **Xena Aster** – Sprout Town botanist apprenticed to the professor; team: Stormjay Lv36, Lumiviper Lv38.
+232. **Xena Bram** – Harbor City fisher funding a ferry for her family; team: Lumiviper Lv37, Frostmaw Lv39.
+233. **Xena Cyra** – Forge Town miner obsessed with volcanic gems; team: Frostmaw Lv38, Mysticore Lv40.
+234. **Xena Dusk** – Gale Village archaeologist cataloging wind totems; team: Mysticore Lv39, Shadowmunk Lv41.
+235. **Xena Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Shadowmunk Lv40, Solarion Lv42.
+236. **Xena Frost** – Quarry City climber charting hidden caves; team: Solarion Lv41, Rockram Lv43.
+237. **Xena Gale** – Lumen Town engineer maintaining solar arrays; team: Rockram Lv42, Sandwyrm Lv44.
+238. **Xena Holt** – Frostburg sculptor carving living ice; team: Sandwyrm Lv43, Ironclaw Lv45.
+239. **Xena Ivory** – Mystic City linguist translating psychic glyphs; team: Ironclaw Lv44, Skylume Lv46.
+240. **Xena Jett** – Obsidian Cove dockworker guarding night shipments; team: Skylume Lv5, Leafling Lv7.
+241. **Yori Aster** – Sprout Town botanist apprenticed to the professor; team: Leafling Lv6, Tidelit Lv8.
+242. **Yori Bram** – Harbor City fisher funding a ferry for her family; team: Tidelit Lv7, Emberimp Lv9.
+243. **Yori Cyra** – Forge Town miner obsessed with volcanic gems; team: Emberimp Lv8, Gustling Lv10.
+244. **Yori Dusk** – Gale Village archaeologist cataloging wind totems; team: Gustling Lv9, Sprigling Lv11.
+245. **Yori Ember** – Verdant Hamlet rancher raising orphaned monsters; team: Sprigling Lv10, Pebblit Lv12.
+246. **Yori Frost** – Quarry City climber charting hidden caves; team: Pebblit Lv11, Sparksprout Lv13.
+247. **Yori Gale** – Lumen Town engineer maintaining solar arrays; team: Sparksprout Lv12, Chillcub Lv14.
+248. **Yori Holt** – Frostburg sculptor carving living ice; team: Chillcub Lv13, Mindlet Lv15.
+249. **Yori Ivory** – Mystic City linguist translating psychic glyphs; team: Mindlet Lv14, Shadepup Lv16.
+250. **Yori Jett** – Obsidian Cove dockworker guarding night shipments; team: Shadepup Lv15, Aquaphin Lv17.
+
+### Full Story Outline
+1. **Prologue – Sprout Town**  
+   - Professor Larch introduces the player to monster lore.  
+   - Dialogue: *"Choose a companion; your journey sprouts from trust."*  
+2. **Rivalry Spark**  
+   - Childhood friend chooses a different starter and boasts: *"I’ll race you to the League!"*  
+3. **Badge Quest Begins**  
+   - Player travels town to town defeating gym leaders who each reveal fragments of titan history.  
+4. **Agents Emerge**  
+   - Shadowy Agents steal a relic shard from Harbor City.  
+   - Dialogue: *"The titans’ memory will be ours!"*  
+5. **Sky Land Trial**  
+   - Player ascends via balloon to calm raging storms and earns the trust of wind spirits.  
+6. **Relic Revelation**  
+   - Combining shards unveils a map to the Titan Nexus beneath Mystic City.  
+7. **Betrayal at Solar Tower**  
+   - Agent lieutenant Silas reveals he seeks titan power to reshape the region.  
+8. **Final Plateau Confrontation**  
+   - Player defeats the reformed Agents and faces Silas’ ultimate monster.  
+   - Dialogue: *"Power without harmony is ruin!"*  
+9. **Epilogue**  
+   - Peace restored, titans slumber and new horizons beckon with seasonal festivals and global trade.
+
+### Area Visuals
+Every locale is richly detailed to immerse players in the world.
+- **Sprout Town** – Cobblestone lanes lined with mossy cottages, scarecrows waving in wheat fields, and a central oak whose leaves shift from lime to emerald with the seasons.  
+- **Harbor City** – Multi-tiered docks of sun-bleached timber, nets fluttering between poles, fish markets awash in teal awnings, and a lighthouse projecting ruby beams over violet sunsets.  
+- **Forge Town** – Lava channels snake beneath iron grates, casting orange light on basalt walls; furnaces roar while metallic clangs echo through sulfurous haze.  
+- **Gale Village** – Rolling plains of amber grass broken by towering windmills; banners snap in constant breezes and clouds race across a cerulean sky.  
+- **Verdant Hamlet** – Suspended rope bridges connect treehouse dwellings; bioluminescent fungi glow turquoise at night around the breeding ranch.  
+- **Quarry City** – Sheer granite cliffs with carved switchbacks, pulley elevators creak, and mining lanterns cast golden halos on jagged rock.  
+- **Lumen Town** – Desert oasis encircled by mirrored solar towers; sandstone houses painted in pastel blues and oranges, streets shimmer under heat haze.  
+- **Frostburg** – Snow-draped chalets of dark timber, icicles glittering like crystal daggers, and auroras painting the night in greens and purples.  
+- **Mystic City** – Sleek skyscrapers with holographic billboards; alleys lined with neon sigils and floating meditation gardens.  
+- **Obsidian Cove** – Black sand beaches reflecting moonlight, tide pools glowing with bioluminescent algae, and crooked docks leading to shadowy waters.  
+- **Aqua Isle** – Coral reefs visible through clear sapphire waters; straw-roof huts ring a crescent beach while palm fronds sway.  
+- **Blizzard Isle** – Jagged icebergs encircle the shore; snowstorms veil a crystalline cavern whose walls refract rainbow light.  
+- **Ember Isle** – Charcoal fields dotted with erupting vents; obsidian cliffs drip molten rivulets into the sea.  
+- **Skyreach Base** – Clifftop hangars with tethered hot-air balloons, brass gears whirling and flags flapping at perpetual dawn.  
+- **Sky Land** – Floating meadows anchored by crystalline roots, waterfalls spilling into endless sky, and ruins hovering on magnetic stones.  
+- **Ruined Temple** – Weathered pillars encircled by ghostly mist; ancient murals faintly glow when moonlight strikes.  
+- **Crystal Town** – Market stalls shaded by gem-cut canopies; every building façade studded with shining minerals, streets sparkling under sunbeams.  
+- **Echo Village** – Sandstone dwellings carved into canyon walls, voices reverberate multiple times creating eerie harmonies.  
+- **Solar City** – Titanium skyscrapers mirror the sun; mag-lev trams glide above chrome plazas and rooftops sport gardens of reflective glass.  
+- **Final Plateau** – Vast highland of crimson stone with panoramic views of the entire region, league stadium crowned by banners of every gym.
+Routes feature their own landmarks and color palettes, from Route 1’s powder-blue snowdrifts dotted with basalt spires to Route 30’s glittering ice tunnels lit by frozen fireflies.
+
+### Human Archetypes
+Twenty archetypes guide human sprite design, emphasizing body form, attire, and facial features.
+1. **Ranger** – Tall, sinewy frame; weathered green duster, wide-brim hat, hawkish nose, and stern amber eyes.  
+2. **Mechanic** – Short and stout; oil-smeared coveralls, tool belt heavy with wrenches, round goggles magnifying bright hazel eyes.  
+3. **Elder Scholar** – Hunched back, thin limbs; flowing indigo robes trimmed with gold, long white beard, deep-set eyes behind tiny spectacles.  
+4. **Courier** – Lean runner’s build; aerodynamic jumpsuit with reflective stripes, messenger bag slung cross-body, freckled face and spiky hair.  
+5. **Sailor** – Muscular with broad shoulders; striped shirt, rolled sleeves revealing anchor tattoo, weather-beaten skin and squared jaw.  
+6. **Dancer** – Graceful silhouette; layered sarong of vibrant reds and yellows, bangled wrists, expressive almond eyes and warm smile.  
+7. **Miner** – Stocky and powerful; heavy boots, dust mask, headlamp helmet, soot-smudged cheeks and determined brow.  
+8. **Merchant** – Slender but poised; tailored suit with jeweled cane, neatly trimmed beard, shrewd eyes behind monocle.  
+9. **Hacker** – Thin and jittery; oversized hoodie etched with circuit motifs, fingerless gloves, neon-dyed hair partially hiding curious gaze.  
+10. **Seer** – Medium build; translucent veils layered over midnight robes, glowing bracelets, calm lavender eyes accentuated by dark liner.  
+11. **Nurse** – Petite; pastel scrubs patterned with hearts, white cap, round cheeks and gentle smile.  
+12. **Hunter** – Burly; fur cloak pinned with fangs, weathered leather pants, scar across cheek, piercing grey eyes.  
+13. **Farmer** – Broad-hipped; denim overalls, straw hat, freckles across sunburned nose, warm brown eyes.  
+14. **Officer** – Rigid posture; crisp navy uniform with silver buttons, square jaw, trimmed hair and stern blue gaze.  
+15. **Chef** – Rotund; flour-dusted apron, towering toque, rosy cheeks, twinkling eyes behind thick brows.  
+16. **Surfer** – Lanky; wetsuit peeled to waist, sun-bleached hair, tan skin, relaxed grin.  
+17. **Librarian** – Slender; cardigan over plaid skirt, horn-rimmed glasses, soft smile and focused eyes.  
+18. **Performer** – Athletic; sequined jacket scattering light, face painted in bold geometric colors, dramatic eyebrows.  
+19. **Poet** – Gaunt; long dark coat, scarf fluttering, melancholy eyes under messy fringe.  
+20. **Smith** – Barrel-chested; leather apron, braided beard flecked with soot, bright grin illuminating crow’s feet.
+
+### Monster Sprite Compendium
+Each species below includes notable animation and color notes.
+- **Leafling** – Lime-green quadruped with oversized leaf tail; idle swish every four frames, blush of yellow along ears.  
+- **Tidelit** – Azure amphibian with translucent fins; ripple shader cycles cyan to navy, jump animation splashes droplets.  
+- **Emberimp** – Coal-black imp with flickering orange horns; constant ember particle emitters, attack animation launches sparks.  
+- **Gustling** – Pale grey avian with ribbon-like wings; wings loop in figure-eight, body leans with wind gust.  
+- **Sprigling** – Sprout-bodied sprite with budding antlers; sprouts bloom during idle, color palette of emerald and mint.  
+- **Pebblit** – Chunky brown golem of stacked stones; cracks glow amber when charging, footstep dust puffs.  
+- **Sparksprout** – Yellow rodent with vine whiskers; static crackles across fur, tail flashes white on attack.  
+- **Chillcub** – Powder-blue bear cub with icy spikes; breathes mist each loop, eyes sparkle with frosty stars.  
+- **Mindlet** – Magenta floating orb with psychic tendrils; gentle bob with aura pulses, teleport blink effect.  
+- **Shadepup** – Shadowy canine outlined in deep indigo; idle produces swirling smoke, eyes flicker crimson.  
+- **Aquaphin** – Sleek teal dolphin-like creature; water trail follows jumps, dorsal fin glows on charge.  
+- **Pyrodon** – Stocky salamander with magma stripes; lava drips from tail tip, attack erupts in flare.  
+- **Lithor** – Granite-armored beetle; carapace reflects light, mandibles snap with metallic clink.  
+- **Zephyrkit** – Tiny silver fox with cloud-tuft tail; tail morphs into wind swirl, body stretches in run cycle.  
+- **Thornstag** – Deep-green deer with vine antlers; leaves fall when hit, hooves leave grass sprouts.  
+- **Voltail** – Neon-blue snake with sparking scales; electric arcs travel lengthwise, hiss animation emits light.  
+- **Glacielle** – Crystal-winged moth; wings refract rainbow shards, powder trail drifts behind.  
+- **Miragecat** – Sand-colored feline shifting transparency; afterimage persists with every step.  
+- **Bramblehog** – Hedgehog covered in bramble thorns; rolls into spiky ball, palette earthy browns and reds.  
+- **Quakelet** – Small golem with fault-line seams; stomps generate tremor ripples, eyes glow molten orange.  
+- **Stormjay** – Cobalt jay with thundercloud wings; lightning flickers in feathers, screech emits waveform.  
+- **Lumiviper** – Pearl-white serpent with luminescent stripes; body segments pulse sequentially, shed light aura.  
+- **Frostmaw** – Woolly mastiff with icy breath; teeth emit snowflakes on bark, heavy idle makes snow sink.  
+- **Mysticore** – Six-legged elk with crystal core; translucent body reveals spinning prism heart.  
+- **Shadowmunk** – Dusky chipmunk that phases into shadows; tail leaves inky trail, eyes gleam silver.  
+- **Solarion** – Radiant lion with solar mane; mane flames oscillate gold to white, roar releases flare.  
+- **Rockram** – Rugged ram with basalt horns; charge animation kicks up gravel, horns crackle.  
+- **Sandwyrm** – Sand-toned wyrm burrowing through dunes; surfacing sends spray of grit, eyes like amber gems.  
+- **Ironclaw** – Metallic crab with pincers that spark; shell reflects surroundings, clack animation shows sparks.  
+- **Skylume** – Luminescent jellyfish floating in air; tentacles trail stardust, body pulses with soft glow.
+
+### Item Sprite Compendium
+Twenty key items with visuals and use animations:
+1. **Healing Herb** – Rolled green leaf unfurling with glittering motes; on use, petals disperse into player.  
+2. **Capture Orb** – Chrome sphere with rotating glyph; opens with radial light that snaps closed.  
+3. **Power Stone** – Jagged amethyst emitting slow pulse; held sprite throbs brighter when HP low.  
+4. **Speed Elixir** – Glass vial of neon blue liquid; drinking animates swirling afterimages.  
+5. **Shield Tonic** – Bronze flask etched with runes; upon use, hexagonal barrier shimmers around monster.  
+6. **Mystic Scroll** – Aged parchment unfurling to reveal glowing symbols that spiral upward.  
+7. **Flame Charm** – Charred pendant with flickering core; use ignites brief protective blaze.  
+8. **Aqua Amulet** – Teardrop gem encased in bubbles; when activated, watery veil cascades downward.  
+9. **Thunder Disk** – Spinning yellow disk sparking arcs; thrown like a Frisbee, discharging on contact.  
+10. **Frost Bell** – Silver bell releasing snowflake chimes; creates swirling snow shield.  
+11. **Shadow Cloak** – Dark cape with animated smoke edges; drapes user in shadow during stealth.  
+12. **Light Beacon** – Crystal lantern projecting sunbeams in all directions.  
+13. **Earth Totem** – Carved stone idol sprouting moss; use summons earthen spikes around player.  
+14. **Wind Fan** – Bamboo fan painting gust trails; swish produces visible air current.  
+15. **Poison Darts** – Quiver of purple-tipped darts; firing leaves trail of green fumes.  
+16. **Steel Plating** – Stack of metallic plates snapping into armor around monster.  
+17. **Dragon Scale** – Iridescent scale radiating prismatic sheen; activates roaring aura.  
+18. **Ghost Candle** – Dripping purple candle emitting spectral flame; flames form protective wisp.  
+19. **Psychic Lens** – Floating crystal eye turning colors as it focuses; use triggers mind-wave ripple.  
+20. **Bug Net** – Mesh net glittering with dewdrops; swing animation leaves afterimage lattice.
+
+### Attack Animation Details
+- **FlameBlast** – Spiraling cone of fire erupts from caster, color gradient from deep red to white-hot core; fades to smoke embers.  
+- **AquaBeam** – Narrow jet of cobalt water with white spray on impact; lingering puddle ripples.  
+- **Leaf Barrage** – Cluster of razor leaves spin outward, each trailing emerald light streak.  
+- **Stone Crush** – Massive boulder materializes above target and shatters into dust.  
+- **Thunder Lance** – Spear of lightning pierces ground, bolts branching outward.  
+- **Frost Wave** – Semi-circular sheet of ice sweeps forward leaving slippery sheen.  
+- **Shadow Pounce** – User dissolves into shadow, reappears behind target with slashing silhouette.  
+- **Solar Flare** – Sphere of blinding light expands then detonates with lens-flare effect.  
+- **Wind Cutter** – Invisible blade slices air, visible only by silver slash marks.  
+- **Toxic Spray** – Cloud of violet particles arcs and settles, leaving bubbling residue.
+
+### Utility Move Visuals
+- **Fly** – Cyclone lifts player skyward, background scrolls vertically, descent fades into destination map.  
+- **Surf** – Water mount forms beneath player, waves animate forward motion with foamy wake.  
+- **Dig** – Monster spins into ground, leaving spiral pit; screen darkens then brightens at exit location.  
+- **Teleport** – Aura envelops player, pixels scatter and reassemble at target point.  
+- **Climb** – Rope shoots upward, player scales with looping climb cycle against cliff tiles.
+
+### Building Visuals
+- **Gyms** – Each reflects its element: Fire gym forged from obsidian with lava falls; Water gym shaped like conch shells with glass floors; Electric gym metallic with neon conduits; etc.  
+- **Labs** – Glass domes housing rotating holograms, automated doors sliding with blue light.  
+- **Inns** – Timber frames, hanging planters, animated chimney smoke, interior hearth flicker.  
+- **Shops** – Color-coded awnings, animated signs (fish for markets, gear for equipment).  
+- **Ranches** – Fenced pastures with swaying grass, barns with opening loft doors.  
+- **Towers** – Solar City skyscrapers with scrolling light strips and rotating satellite dishes.
+
+### Map Options
+- Toggle grid and coordinate display.  
+- Mini-map with player marker and zoom control.  
+- Icons for shops, gyms, docks, caves, and quest givers.  
+- Route highlighting, dynamic weather overlays, and day/night filter.  
+- Accessibility toggles for high-contrast mode and simplified pathing.  
+- Fast-travel markers unlocked after discovery.  
+- Encounter radar showing nearby monsters.  
+- Quest log overlay with tracking arrows.  
+- Photo mode for capturing scenery.
